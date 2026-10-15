@@ -29,4 +29,3 @@
 
 ## 4. Tests fonctionnels
 - **Simulation** : 2 clics sur « Ajouter » donnent bien 2 créneaux et 40 minutes. « Recommencer » remet le compteur à 0.
-- **Dernier hash de main** : [Hash du dernier commit sur main]

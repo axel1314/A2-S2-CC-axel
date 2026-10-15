@@ -24,7 +24,6 @@
 
 ## 3. Annulation ciblée de la durée
 - **Commit erroné annulé** : `b88cc98bf3fae11998895be8365305f22b2cc49c`
-- **Nouveau commit d'annulation (revert)** : [Hash généré par git revert]
 - **Vérification** : Le conseil dans `README.md` est bien conservé et la durée unitaire est revenue à 20 minutes.
 
 ## 4. Tests fonctionnels

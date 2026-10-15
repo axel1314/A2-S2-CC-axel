@@ -1,7 +1,7 @@
 # Rapport de contrôle continu
 
 - **Nom / Prénom** : Cotte Axel
-- **Commit initial de départ** : a43f314 (feature/tutorat) Préciser le tutorat individuel sur inscription
+- **Commits** : a43f314 (feature/tutorat) Préciser le tutorat individuel sur inscription
 * 76184a8 (HEAD -> main) Ajouter le conseil de vérification du compteur
 * b88cc98 Mettre à jour la durée de référence des créneaux
 * 4a266e1 Créer le portail et le simulateur de créneaux
